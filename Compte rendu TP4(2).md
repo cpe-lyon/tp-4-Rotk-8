@@ -60,4 +60,6 @@ Pour compiler le logiciel bonsai on lit dans le README.dm qu'il faut taper les c
 Puis pour executer on fait "cbonsai" ou "cbonsai -l" pour avoir l'animation.
     
 En suite on installe "checkinstall" puis on verifie de n'imprte quel dossier que l'on peut executer "cbonsai".
-    
+
+## Exercice 8 :
+    (fait, si besoin cf énoncé TP4)
