@@ -53,4 +53,11 @@ A l'aie du curseur et de l'onglet "search" on cherche les paquets "ecmax" et "ly
 Note : c'est java17 qu'il faut instaler (dernière version)
 Le nouveau fichier créer est "linuxuprising-ubuntu-java-jammy.list", il contient les liens de la source du paquet.
     
+ ## Exercice 7 :
+Pour compiler le logiciel bonsai on lit dans le README.dm qu'il faut taper les commandes : 
+    "sudo apt install libncursesw5-dev"
+    "sudo apt install cbonsai"
+Puis pour executer on fait "cbonsai" ou "cbonsai -l" pour avoir l'animation.
+    
+En suite on installe "checkinstall" puis on verifie de n'imprte quel dossier que l'on peut executer "cbonsai".
     
